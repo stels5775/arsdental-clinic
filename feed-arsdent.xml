@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<yml_catalog date="2024-03-12 12:10">
+    <shop>
+        <name>Работает</name>
+        <company>Стоматологическая клиника ARS Dental Clinic</company>
+        <url>https://arsdentalclinic.ru</url>
+        <email>office@arsdentalclinic.ru</email>
+        <picture> https://arsdentalclinic.ru/wp-content/themes/arsdentalclinic/images/logo.png </picture>
+        <description>Каталог врачей</description>
+        <currencies>
+          <currency id="RUR" rate="1" />
+        </currencies>
+        <categories>
+            <category id="1">Врач</category>
+        </categories>
+
+        <sets>
+            <set id=" stomatolog ">
+                <name>Стоматолог</name>
+                <url>https://arsdentalclinic.ru/specialists/</url>
+            </set>
+        </sets>
+        <offers>
+            <offer id="vrach111" group_id="94726"> 
+                <name>Барсегян Нонна Фирузовна </name> <!--ФИО, именно в таком порядке-->
+                <!--URL может совпадать ТОЛЬКО для офферов с одинаковым group_id.-->
+                <url> https://arsdentalclinic.ru/specialists/barsegyan-nonna-firuzovna/ </url><!--URL карточки врача. -->
+                <price from="true">1000</price>  <!--Цена приема при записи в источнике фида, с учетом скидки -->
+                <oldprice>1000</oldprice>  <!--Цена приема в клинике, должна быть не ниже price-->
+                <currencyId>RUR</currencyId>
+                <sales_notes>Первичный прием</sales_notes>
+                <set-ids>stomatolog</set-ids> <!--специальности через запятую-->
+                <picture>https://arsdentalclinic.ru/wp-content/uploads/2023/11/9_370x480.png </picture>
+                <description> Окончила Северо-Западный государственный медицинский университет им.И.И.Мечникова., а также ординатуру по направлению «ортодонтия» в Новгородском Государственном университете, им. Ярослава Мудрого.
+</description>
+                <categoryId>1</categoryId>
+                <!--Пустых блоков param быть не должно. Если необязательное поле не заполнено, его нужно исключить из фида-->
+                <param name="Фамилия"> Барсегян </param>
+                <param name="Имя"> Нонна </param>
+                <param name="Отчество"> Фирузовна </param>
+                <param name="Годы опыта">3</param>
+                <param name="Начало карьеры">2011-01-01</param> <!--Дата начала карьеры, для подсчета стажа-->
+				<param name="Город">г. Санкт-Петербург</param>
+                <param name="Взрослый врач">true</param> <!--Принимает взрослых, от 18 лет-->
+                <param name="Детский врач">false</param> <!--Принимает детей, до 18 лет-->
+                <param name="Ссылка на профиль врача">https://arsdentalclinic.ru/specialists/barsegyan-nonna-firuzovna/</param>
+                <param name="Город клиники">г. Санкт-Петербург</param>
+                <param name="Адрес клиники"> ул. Грибалёвой, д. 7, кор. 4 </param>
+                <param name="Название клиники"> Стоматологическая клиника ARS Dental Clinic </param>
+                <param name="Возможность записи">true</param> <!--Возможность записаться на прием через сайт-поставщик фида-->
+                <param name="Телефон для записи"> +7 (812) 322-97-55 </param> <!--Можно подменник аггрегатора-->
+            </offer>
+		            <offer id="vrach112" group_id="94727"> 
+                <name>Амирханов Таймураз Назимович </name> <!--ФИО, именно в таком порядке-->
+                <!--URL может совпадать ТОЛЬКО для офферов с одинаковым group_id.-->
+                <url> https://arsdentalclinic.ru/specialists/amirhanov-tajmuraz-nazimovich/</url><!--URL карточки врача. -->
+                <price from="true">1500</price>  <!--Цена приема при записи в источнике фида, с учетом скидки -->
+                <oldprice>1500</oldprice>  <!--Цена приема в клинике, должна быть не ниже price-->
+                <currencyId>RUR</currencyId>
+                <sales_notes>Первичный прием</sales_notes>
+                <set-ids>stomatolog</set-ids> <!--специальности через запятую-->
+                <picture>https://arsdentalclinic.ru/wp-content/uploads/2023/01/5.png</picture>
+                <description> Таймураз Назимович ведет врачебную практику в области хирургической стоматологии. Он успешно проводит операции по имплантации и устраняет заболевания полости рта любой сложности. Учился у лучших специалистов в Италии, Франции, Германии, США, ОАЭ и Нидерландах.
+</description>
+                <categoryId>1</categoryId>
+                <!--Пустых блоков param быть не должно. Если необязательное поле не заполнено, его нужно исключить из фида-->
+                <param name="Фамилия"> Амирханов </param>
+                <param name="Имя"> Таймураз </param>
+                <param name="Отчество"> Назимович </param>
+                <param name="Годы опыта">15</param>
+                <param name="Начало карьеры">2009-01-01</param> <!--Дата начала карьеры, для подсчета стажа-->
+				<param name="Город">г. Санкт-Петербург</param>
+				<param name="Взрослый врач">true</param> <!--Принимает взрослых, от 18 лет-->
+                <param name="Детский врач">false</param> <!--Принимает детей, до 18 лет-->
+                <param name="Ссылка на профиль врача"> https://arsdentalclinic.ru/specialists/amirhanov-tajmuraz-nazimovich/ </param>
+                <param name="Город клиники">г. Санкт-Петербург</param>
+                <param name="Адрес клиники"> ул. Грибалёвой, д. 7, кор. 4 </param>
+                <param name="Название клиники"> Стоматологическая клиника ARS Dental Clinic </param>
+                <param name="Возможность записи">true</param> <!--Возможность записаться на прием через сайт-поставщик фида-->
+                <param name="Телефон для записи"> +7 (812) 322-97-55 </param> <!--Можно подменник аггрегатора-->
+            </offer>
+	            <offer id="vrach113" group_id="94728"> 
+                <name>Кагу Наталья Владимировна</name> <!--ФИО, именно в таком порядке-->
+                <!--URL может совпадать ТОЛЬКО для офферов с одинаковым group_id.-->
+                <url> https://arsdentalclinic.ru/specialists/kagu-natalya-vladimirovna/</url><!--URL карточки врача. -->
+                <price from="true">1000</price>  <!--Цена приема при записи в источнике фида, с учетом скидки -->
+                <oldprice>1000</oldprice>  <!--Цена приема в клинике, должна быть не ниже price-->
+                <currencyId>RUR</currencyId>
+                <sales_notes>Первичный прием</sales_notes>
+                <set-ids>stomatolog</set-ids> <!--специальности через запятую-->
+                <picture>https://arsdentalclinic.ru/wp-content/uploads/2023/10/10_370x480.png</picture>
+                <description>Кагу Наталья Владимировна — стоматолог, со стажем 5 лет. У Кагу Натальи Владимировны, как компетентного специалиста с большим багажом знаний, вы можете получить консультацию относительно прогнозов и рисков предстоящего лечения. В ряде случаев вам потребуется пройти необходимые тесты, по результатам которых уже можно составить курс процедур.
+</description>
+                <categoryId>1</categoryId>
+                <!--Пустых блоков param быть не должно. Если необязательное поле не заполнено, его нужно исключить из фида-->
+                <param name="Фамилия"> Кагу </param>
+                <param name="Имя"> Наталья </param>
+                <param name="Отчество"> Владимировна </param>
+                <param name="Годы опыта">6</param>
+                <param name="Начало карьеры">2018-01-01</param> <!--Дата начала карьеры, для подсчета стажа-->
+				<param name="Город">г. Санкт-Петербург</param>
+                <param name="Взрослый врач">true</param> <!--Принимает взрослых, от 18 лет-->
+                <param name="Детский врач">false</param> <!--Принимает детей, до 18 лет-->
+                <param name="Ссылка на профиль врача https://arsdentalclinic.ru/specialists/kagu-natalya-vladimirovna/ </param>
+                <param name="Город клиники">г. Санкт-Петербург</param>
+                <param name="Адрес клиники"> ул. Грибалёвой, д. 7, кор. 4 </param>
+                <param name="Название клиники"> Стоматологическая клиника ARS Dental Clinic </param>
+                <param name="Возможность записи">true</param> <!--Возможность записаться на прием через сайт-поставщик фида-->
+                <param name="Телефон для записи"> +7 (812) 322-97-55 </param> <!--Можно подменник аггрегатора-->
+            </offer>
+            <offer id="vrach114" group_id="94729"> 
+                <name>Груздева Ксения Николаевна</name> <!--ФИО, именно в таком порядке-->
+                <!--URL может совпадать ТОЛЬКО для офферов с одинаковым group_id.-->
+                <url> https://arsdentalclinic.ru/specialists/gruzdeva-kseniya-nikolaevna/</url><!--URL карточки врача. -->
+                <price from="true">1000</price>  <!--Цена приема при записи в источнике фида, с учетом скидки -->
+                <oldprice>1000</oldprice>  <!--Цена приема в клинике, должна быть не ниже price-->
+                <currencyId>RUR</currencyId>
+                <sales_notes>Первичный прием</sales_notes>
+                <set-ids>stomatolog</set-ids> <!--специальности через запятую-->
+                <picture> https://arsdentalclinic.ru/wp-content/uploads/2023/01/8.png </picture>
+                <description>Окончила Первый Санкт-Петербургский государственный медицинский университет им.И.П.Павлова, а также ординатуру по направлению ортодонтия в Северо-Западном государственном медицинском университете им.И.И.Мечникова. Ксения Николаевна постоянно совершенствуется в своих навыках и знаниях, поэтому регулярно проходит обучающие курсы и семинары. В нашей клинике стоматолог-ортодонт занимается профилактикой, диагностикой и лечением аномалий прикуса. Вы можете обратиться к Ксении Николаевне за консультацией по поводу установки брекет-системы и лечением зубов на элайнерах.
+</description>
+                <categoryId>1</categoryId>
+                <!--Пустых блоков param быть не должно. Если необязательное поле не заполнено, его нужно исключить из фида-->
+                <param name="Фамилия"> Груздева </param>
+                <param name="Имя"> Ксения </param>
+                <param name="Отчество"> Николаевна </param>
+                <param name="Годы опыта">11</param>
+                <param name="Начало карьеры">2013-01-01</param> <!--Дата начала карьеры, для подсчета стажа-->
+				<param name="Город">г. Санкт-Петербург</param>
+                <param name="Взрослый врач">true</param> <!--Принимает взрослых, от 18 лет-->
+                <param name="Детский врач">false</param> <!--Принимает детей, до 18 лет-->
+                <param name="Ссылка на профиль врача https://arsdentalclinic.ru/specialists/gruzdeva-kseniya-nikolaevna/</param>
+                <param name="Город клиники">г. Санкт-Петербург</param>
+                <param name="Адрес клиники"> ул. Грибалёвой, д. 7, кор. 4 </param>
+                <param name="Название клиники"> Стоматологическая клиника ARS Dental Clinic </param>
+                <param name="Возможность записи">true</param> <!--Возможность записаться на прием через сайт-поставщик фида-->
+                <param name="Телефон для записи"> +7 (812) 322-97-55 </param> <!--Можно подменник аггрегатора-->
+            </offer>
+
+			            <offer id="vrach115" group_id="94730"> 
+                <name>Толокнова Наталья Вячеславовна</name> <!--ФИО, именно в таком порядке-->
+                <!--URL может совпадать ТОЛЬКО для офферов с одинаковым group_id.-->
+                <url>https://arsdentalclinic.ru/specialists/toloknova-natalya-vyacheslavovna/ </url><!--URL карточки врача. -->
+                <price from="true">1000</price>  <!--Цена приема при записи в источнике фида, с учетом скидки -->
+                <oldprice>1000</oldprice>  <!--Цена приема в клинике, должна быть не ниже price-->
+                <currencyId>RUR</currencyId>
+                <sales_notes>Первичный прием</sales_notes>
+                <set-ids>stomatolog</set-ids> <!--специальности через запятую-->
+                <picture> https://arsdentalclinic.ru/wp-content/uploads/2023/01/7.png </picture>
+                <description>Окончила Дальневосточный государственный медицинский университет с отличием, а также ординатуру по направлению стоматология общей практики в Первом Санкт-Петербургском государственном медицинском университете им.И.П.Павлова. Наталья Вячеславовна специализируется на лечении зубов под микроскопом. Занимается лечением кариеса любой сложности, эстетической реставрацией, эндодонтическим лечением, а также проведением профессиональной гигиены полости рта.
+</description>
+                <categoryId>1</categoryId>
+                <!--Пустых блоков param быть не должно. Если необязательное поле не заполнено, его нужно исключить из фида-->
+                <param name="Фамилия"> Толокнова </param>
+                <param name="Имя"> Наталья </param>
+                <param name="Отчество"> Вячеславовна </param>
+                <param name="Годы опыта">10</param>
+                <param name="Начало карьеры">2014-01-01</param> <!--Дата начала карьеры, для подсчета стажа-->
+				<param name="Город">г. Санкт-Петербург</param>
+                <param name="Взрослый врач">true</param> <!--Принимает взрослых, от 18 лет-->
+                <param name="Детский врач">false</param> <!--Принимает детей, до 18 лет-->
+                <param name="Ссылка на профиль врача https://arsdentalclinic.ru/specialists/toloknova-natalya-vyacheslavovna/ </param>
+                <param name="Город клиники">г. Санкт-Петербург</param>
+                <param name="Адрес клиники"> ул. Грибалёвой, д. 7, кор. 4 </param>
+                <param name="Название клиники"> Стоматологическая клиника ARS Dental Clinic </param>
+                <param name="Возможность записи">true</param> <!--Возможность записаться на прием через сайт-поставщик фида-->
+                <param name="Телефон для записи"> +7 (812) 322-97-55 </param> <!--Можно подменник аггрегатора-->
+            </offer>
+            <offer id="vrach115" group_id="94731"> 
+                <name>Белевцева Дарья Андреевна</name> <!--ФИО, именно в таком порядке-->
+                <!--URL может совпадать ТОЛЬКО для офферов с одинаковым group_id.-->
+                <url> https://arsdentalclinic.ru/specialists/belevczeva-darya-andreevna/ </url><!--URL карточки врача. -->
+                <price from="true">1000</price>  <!--Цена приема при записи в источнике фида, с учетом скидки -->
+                <oldprice>1000</oldprice>  <!--Цена приема в клинике, должна быть не ниже price-->
+                <currencyId>RUR</currencyId>
+                <sales_notes>Первичный прием</sales_notes>
+                <set-ids>stomatolog</set-ids> <!--специальности через запятую-->
+                <picture> https://arsdentalclinic.ru/wp-content/uploads/2024/02/11_370x480.png </picture>
+                <description> Окончила ФГБОУ ВО «Санкт-Петербургский государственный педиатрический медицинский университет».
+</description>
+                <categoryId>1</categoryId>
+                <!--Пустых блоков param быть не должно. Если необязательное поле не заполнено, его нужно исключить из фида-->
+                <param name="Фамилия"> Белевцева </param>
+                <param name="Имя"> Дарья </param>
+                <param name="Отчество"> Андреевна </param>
+                <param name="Годы опыта">1</param>
+                <param name="Начало карьеры">2023-01-01</param> <!--Дата начала карьеры, для подсчета стажа-->
+				<param name="Город">г. Санкт-Петербург</param>
+                <param name="Взрослый врач">true</param> <!--Принимает взрослых, от 18 лет-->
+                <param name="Детский врач">false</param> <!--Принимает детей, до 18 лет-->
+                <param name="Ссылка на профиль врача https://arsdentalclinic.ru/specialists/belevczeva-darya-andreevna/ </param>
+                <param name="Город клиники">г. Санкт-Петербург</param>
+                <param name="Адрес клиники"> ул. Грибалёвой, д. 7, кор. 4 </param>
+                <param name="Название клиники"> Стоматологическая клиника ARS Dental Clinic </param>
+                <param name="Возможность записи">true</param> <!--Возможность записаться на прием через сайт-поставщик фида-->
+                <param name="Телефон для записи"> +7 (812) 322-97-55 </param> <!--Можно подменник аггрегатора-->
+            </offer>
+
+        </offers>
+    </shop>
+</yml_catalog>
