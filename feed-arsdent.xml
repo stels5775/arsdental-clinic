@@ -99,7 +99,7 @@
 		<param name="Город">г. Санкт-Петербург</param>
                 <param name="Взрослый врач">true</param> <!--Принимает взрослых, от 18 лет-->
                 <param name="Детский врач">false</param> <!--Принимает детей, до 18 лет-->
-                <param name="Ссылка на профиль врача>https://arsdentalclinic.ru/specialists/kagu-natalya-vladimirovna/</param>
+                <param name="Ссылка на профиль врача">https://arsdentalclinic.ru/specialists/kagu-natalya-vladimirovna/</param>
                 <param name="Город клиники">г. Санкт-Петербург</param>
                 <param name="Адрес клиники">ул. Грибалёвой, д. 7, кор. 4</param>
                 <param name="Название клиники">Стоматологическая клиника ARS Dental Clinic</param>
@@ -128,7 +128,7 @@
 		<param name="Город">г. Санкт-Петербург</param>
                 <param name="Взрослый врач">true</param> <!--Принимает взрослых, от 18 лет-->
                 <param name="Детский врач">false</param> <!--Принимает детей, до 18 лет-->
-                <param name="Ссылка на профиль врача>https://arsdentalclinic.ru/specialists/gruzdeva-kseniya-nikolaevna/</param>
+                <param name="Ссылка на профиль врача">https://arsdentalclinic.ru/specialists/gruzdeva-kseniya-nikolaevna/</param>
                 <param name="Город клиники">г. Санкт-Петербург</param>
                 <param name="Адрес клиники">ул. Грибалёвой, д. 7, кор. 4</param>
                 <param name="Название клиники">Стоматологическая клиника ARS Dental Clinic</param>
@@ -157,7 +157,7 @@
 		<param name="Город">г. Санкт-Петербург</param>
                 <param name="Взрослый врач">true</param> <!--Принимает взрослых, от 18 лет-->
                 <param name="Детский врач">false</param> <!--Принимает детей, до 18 лет-->
-                <param name="Ссылка на профиль врача>https://arsdentalclinic.ru/specialists/toloknova-natalya-vyacheslavovna/</param>
+                <param name="Ссылка на профиль врача">https://arsdentalclinic.ru/specialists/toloknova-natalya-vyacheslavovna/</param>
                 <param name="Город клиники">г. Санкт-Петербург</param>
                 <param name="Адрес клиники">ул. Грибалёвой, д. 7, кор. 4</param>
                 <param name="Название клиники">Стоматологическая клиника ARS Dental Clinic</param>
@@ -185,7 +185,7 @@
 		<param name="Город">г. Санкт-Петербург</param>
                 <param name="Взрослый врач">true</param> <!--Принимает взрослых, от 18 лет-->
                 <param name="Детский врач">false</param> <!--Принимает детей, до 18 лет-->
-                <param name="Ссылка на профиль врача https://arsdentalclinic.ru/specialists/belevczeva-darya-andreevna/ </param>
+                <param name="Ссылка на профиль врача">https://arsdentalclinic.ru/specialists/belevczeva-darya-andreevna/ </param>
                 <param name="Город клиники">г. Санкт-Петербург</param>
                 <param name="Адрес клиники">ул. Грибалёвой, д. 7, кор. 4</param>
                 <param name="Название клиники">Стоматологическая клиника ARS Dental Clinic</param>
