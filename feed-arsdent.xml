@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <yml_catalog date="2024-03-12 12:10">
     <shop>
-        <name>Работает</name>
+        <name>ARSDental.Врачи</name>
         <company>Стоматологическая клиника ARS Dental Clinic</company>
         <url>https://arsdentalclinic.ru</url>
         <email>office@arsdentalclinic.ru</email>
-        <picture>https://arsdentalclinic.ru/wp-content/themes/arsdentalclinic/images/logo.png</picture>
+        <picture>https://arsdentalclinic.ru/wp-content/themes/arsdentalclinic/images/ars-logo.jpg</picture>
         <description>Каталог врачей</description>
         <currencies>
           <currency id="RUR" rate="1" />
@@ -15,7 +15,7 @@
         </categories>
 
         <sets>
-            <set id=" stomatolog ">
+            <set id="stomatolog">
                 <name>Стоматолог</name>
                 <url>https://arsdentalclinic.ru/specialists/</url>
             </set>
