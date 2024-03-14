@@ -5,7 +5,7 @@
         <company>Стоматологическая клиника ARS Dental Clinic</company>
         <url>https://arsdentalclinic.ru</url>
         <email>office@arsdentalclinic.ru</email>
-        <picture>https://arsdentalclinic.ru/wp-content/themes/arsdentalclinic/images/ars-logo.jpg</picture>
+        <picture>https://arsdentalclinic.ru/logo.svg</picture>
         <description>Каталог врачей</description>
         <currencies>
           <currency id="RUR" rate="1" />
